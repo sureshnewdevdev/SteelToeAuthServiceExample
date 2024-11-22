@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthSecuredMicroservice", "AuthSecuredMicroservice.csproj", "{D3BD7B1D-80CC-4FF0-947D-D3E2C372E59B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3BD7B1D-80CC-4FF0-947D-D3E2C372E59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3BD7B1D-80CC-4FF0-947D-D3E2C372E59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3BD7B1D-80CC-4FF0-947D-D3E2C372E59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3BD7B1D-80CC-4FF0-947D-D3E2C372E59B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798B6F7E-E69B-4732-B740-43077B0C7181}
+	EndGlobalSection
+EndGlobal
